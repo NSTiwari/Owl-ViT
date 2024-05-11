@@ -1,0 +1,15 @@
+{
+    "device": "android",
+    "model_list": [
+        {
+          "model": "Llama-3-8B-Instruct-q4f16_1-MLC",
+          "bundle_weight": true,
+          "model_id": "llama-3-8b-q4f16_1",
+          "model_lib": "llama-q4f16_1",
+          "estimated_vram_bytes": 3000000000
+        }
+      ],
+      "model_lib_path_for_prepare_libs": {
+        "llama-q4f16_1": "./dist/lib/Llama-3-8B-Instruct-q4f16_1-android.tar"
+      }
+}
