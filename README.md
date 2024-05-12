@@ -1,1 +1,1 @@
-# Owl-Vit
+# Owl-ViT
